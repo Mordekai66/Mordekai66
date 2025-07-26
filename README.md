@@ -1,5 +1,5 @@
-# Hi 👋, I'm Abdelrahman
-### 🚀 AI Engineer | Python Developer | Tech Enthusiast  
+# Hi, I'm Abdelrahman
+### AI Engineer | Python Developer | Tech Enthusiast | Instructor | Tech content creator
 
 Passionate about **AI, ML, and Software Development**. Love solving complex problems and building innovative projects that make an impact!  
 
