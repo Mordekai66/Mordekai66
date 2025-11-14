@@ -29,7 +29,13 @@ Passionate about **AI, ML, and Software Development**. Love solving complex prob
 ###  VoiceInSight - Speech Analysis AI  
  AI-based system to detect and analyze speech difficulties (stuttering, mispronunciations).  
  Uses **NLP and Audio Processing** for real-time feedback.  
- Built with **Python and Speech Recognition**.  
+ Built with **Python and Speech Recognition**.
+
+ ###  AI-Powered Course Recommender System  
+ Converts any design, whether from Figma or our built-in designer, directly into application code in Python, Java, or C++. 
+ Uses **Figma API and Tkinter GUI**.
+ Features **Converts design to app in 5 seconds**.  
+[🔗 GitHub Repo](https://github.com/Mordekai66/design2apps) 
 
 ###  AI-Powered Course Recommender System  
  Recommends courses based on user preferences.  
