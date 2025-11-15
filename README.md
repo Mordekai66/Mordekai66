@@ -15,31 +15,33 @@ Passionate about **AI, ML, and Software Development**. Love solving complex prob
 
 
 ---  
-##  Featured Projects  
-###  VoiceInSight - Speech Analysis AI  
- AI-based system to detect and analyze speech difficulties (stuttering, mispronunciations). 
- 
- Uses **NLP and Audio Processing** for real-time feedback.  
- 
- Built with **Python and Speech Recognition**.
+## 🚀 Featured Projects  
 
-###  Figmatic
+---
 
- Converts any design, whether from Figma or our built-in designer, directly into application code in Python, Java, or C++.
- 
- Uses **Figma API and Tkinter GUI**.
- 
- Features **Converts design to app in 5 seconds**.  
-[🔗 GitHub Repo](https://github.com/Mordekai66/design2apps) 
+### 🎤 **VoiceInSight – Speech Analysis AI**  
+AI-based system that detects and analyzes speech difficulties (stuttering, mispronunciations) and recommends targeted exercises to improve performance.
 
-###  AI-Powered Course Recommender System  
- 
- Recommends courses based on user preferences.  
- 
- Uses **Machine Learning and Tkinter GUI**.  
- 
- Features **API integration** for real-time updates.  
-[🔗 GitHub Repo](https://github.com/Mordekai66/Team-8-InternShip)  
+- Uses **NLP and Audio Processing** for real-time feedback  
+- Built with **Python and Speech Recognition**
+
+---
+
+### 🧩 **Figmatic**  
+Converts any design, whether from Figma or our built-in designer, directly into application code in **Python, Java, or C++**.
+
+- Uses **Figma API and Tkinter GUI**  
+- Features **Converts design to app in 5 seconds**  
+🔗 **GitHub Repo:** [design2apps](https://github.com/Mordekai66/design2apps)
+
+---
+
+### 🎯 **AI-Powered Course Recommender System**  
+Recommends courses based on user preferences.
+
+- Uses **Machine Learning and Tkinter GUI**  
+- Features **API integration** for **real-time updates**  
+🔗 **GitHub Repo:** [Team-8-InternShip](https://github.com/Mordekai66/Team-8-InternShip)
 
 ---  
 # 📊 GitHub Stats:
