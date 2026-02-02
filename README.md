@@ -54,7 +54,7 @@ Recommends courses based on user preferences.
   <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Mordekai66&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   <!-- <img src="https://streak-stats.demolab.com/?user=Mordekai66&theme=highcontrast" height="125" /> -->
   
-  <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mordekai66/Mordekai66/output/pacman-contribution-graph-dark.svg">
