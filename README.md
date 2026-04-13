@@ -18,7 +18,6 @@ I'm Abdelrahman - Passionate about **AI, ML, and Software Development**. Love so
 ---  
 ## Featured Projects  
 
----
 
 ### **VoiceInSight – Speech Analysis AI**  
 AI-based system that detects and analyzes speech difficulties (stuttering, mispronunciations) and recommends targeted exercises to improve performance.
