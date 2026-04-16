@@ -52,6 +52,6 @@ Recommends courses based on user preferences.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mordekai66&theme=transparent&hide_border=false)
 
 ## GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=Mordekai66&theme=darkhub)
+  ![](https://github-profile-trophy-ahmed.vercel.app/?username=Mordekai66&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
