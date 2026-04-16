@@ -51,8 +51,7 @@ Recommends courses based on user preferences.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordekai66&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Trophies
-  <img src="https://github-readme-stats.vercel.app/api/?username=Mordekai66&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub Trophies" />
-  <!-- <img src="https://streak-stats.demolab.com/?user=Mordekai66&theme=highcontrast" height="125" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/?username=Mordekai66&show_icons=true&count_private=true&theme=transparent&hide_border=false" alt="GitHub Trophies" />
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 
