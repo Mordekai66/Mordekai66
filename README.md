@@ -30,7 +30,7 @@ AI-based system that detects and analyzes speech difficulties (stuttering, mispr
 ### **InnoCaptcha - AI-Powered CAPTCHA Library**
 - Core contributor to InnoCaptcha, a pluggable Python security library with 5 challenge types including AI-driven Image (YOLOv11) and Voice Recognition (STT).
 -	Built a secure token-based verification system with IP/session binding, auto-expiry, and brute-force protection.
--	GitHub: [InnoCaptcha](github.com/InnoSoft-Company/InnoCaptcha)
+-	GitHub: [InnoCaptcha](https://github.com/InnoSoft-Company/InnoCaptcha)
 
 ---
 
@@ -46,12 +46,12 @@ Converts any design, whether from Figma or our built-in designer, directly into 
 ### **Vizods - DSA Visualization python Library**
 -	Published vizods, an open-source Python library that auto-generates MP4/PNG visualizations of 10+ data structures and algorithms (Sorting, Searching, Trees, Graphs).
 -	Features a zero-config API producing complex animations in under 3 lines of Python code.
--	GitHub: [vizods](github.com/Mordekai66/vizods)
+-	GitHub: [vizods](https://github.com/Mordekai66/vizods)
 
 ---
 ### **DatasetIQ — ML Dataset Registry**
 -	Automated, structured registry of machine learning datasets with unified metadata, continuous validation, and queryable access.
--	GitHub: [dataset-iq](github.com/Mordekai66/dataset-iq)
+-	GitHub: [dataset-iq](https://github.com/Mordekai66/dataset-iq)
 
 
 ---  
