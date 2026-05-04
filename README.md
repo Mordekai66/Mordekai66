@@ -27,21 +27,32 @@ AI-based system that detects and analyzes speech difficulties (stuttering, mispr
 
 ---
 
+### **InnoCaptcha - AI-Powered CAPTCHA Library**
+- Core contributor to InnoCaptcha, a pluggable Python security library with 5 challenge types including AI-driven Image (YOLOv11) and Voice Recognition (STT).
+-	Built a secure token-based verification system with IP/session binding, auto-expiry, and brute-force protection.
+-	GitHub: [InnoCaptcha](github.com/InnoSoft-Company/InnoCaptcha)
+
+---
+
 ### **Figmatic**  
 Converts any design, whether from Figma or our built-in designer, directly into application code in **Python, Java, or C++**.
 
 - Uses **Figma API and Tkinter GUI**  
 - Features **Converts design to app in 5 seconds**  
-🔗 **GitHub Repo:** [design2apps](https://github.com/Mordekai66/design2apps)
+- GitHub: [design2apps](https://github.com/Mordekai66/design2apps)
 
 ---
 
-### **AI-Powered Course Recommender System**  
-Recommends courses based on user preferences.
+### **Vizods - DSA Visualization python Library**
+-	Published vizods, an open-source Python library that auto-generates MP4/PNG visualizations of 10+ data structures and algorithms (Sorting, Searching, Trees, Graphs).
+-	Features a zero-config API producing complex animations in under 3 lines of Python code.
+-	GitHub: [vizods](github.com/Mordekai66/vizods)
 
-- Uses **Machine Learning and Tkinter GUI**  
-- Features **API integration** for **real-time updates**  
-🔗 **GitHub Repo:** [Team-8-InternShip](https://github.com/Mordekai66/Team-8-InternShip)
+---
+### **DatasetIQ — ML Dataset Registry**
+-	Automated, structured registry of machine learning datasets with unified metadata, continuous validation, and queryable access.
+-	GitHub: [dataset-iq](github.com/Mordekai66/dataset-iq)
+
 
 ---  
 
