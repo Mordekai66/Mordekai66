@@ -1,7 +1,7 @@
 # About Me
 ### AI Engineer | Network Support | CS & Data Science Background | Instructor & Tech Content Creator
 
-I'm Abdelrahman - Passionate about **AI, ML, and Software Development**. Love solving complex problems and building innovative projects that make an impact!  
+AI Engineer as you like!😉
 
 ---  
 
