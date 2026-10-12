@@ -1,7 +1,5 @@
 # About Me
-### AI Engineer | Network Support | CS & Data Science Background | Instructor & Tech Content Creator
-
-AI Engineer as you like!😉
+### AI Engineer | Network Support | Instructor | Tech Content Creator
 
 ---  
 
