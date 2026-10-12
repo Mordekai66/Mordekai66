@@ -1,5 +1,5 @@
 # About Me
-### AI Engineer | Network Support | Instructor | Tech Content Creator
+**AI Engineer | Network Support | Instructor | Tech Content Creator**
 
 ---  
 
